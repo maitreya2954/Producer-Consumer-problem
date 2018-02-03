@@ -1,0 +1,145 @@
+Producer: Apple 19 is added into the fridge
+Consumer Thread-2: Apple 19 is removed from fridge
+Producer: Apple 24 is added into the fridge
+Consumer Thread-2: Apple 24 is removed from fridge
+Producer: Apple 1 is added into the fridge
+Consumer Thread-2: Apple 1 is removed from fridge
+Producer: Apple 17 is added into the fridge
+Producer: Full
+Consumer Thread-2: Apple 17 is removed from fridge
+Producer: Apple 35 is added into the fridge
+Producer: Apple 9 is added into the fridge
+Consumer Thread-2: Apple 9 is removed from fridge
+Producer: Apple 7 is added into the fridge
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Producer: Apple 8 is added into the fridge
+Consumer Thread-2: Apple 8 is removed from fridge
+Producer: Apple 40 is added into the fridge
+Consumer Thread-2: Apple 40 is removed from fridge
+Producer: Apple 12 is added into the fridge
+Producer: Full
+Producer: Full
+Consumer Thread-2: Apple 12 is removed from fridge
+Producer: Apple 15 is added into the fridge
+Producer: Full
+Consumer Thread-2: Apple 15 is removed from fridge
+Producer: Full
+Producer: Apple 1 is added into the fridge
+Producer: Full
+Consumer Thread-2: Apple 1 is removed from fridge
+Producer: Apple 1 is added into the fridge
+Empty
+Consumer Thread-2: Apple 4 is removed from fridge
+Consumer Thread-2: Apple 4 is removed from fridge
+Consumer Thread-2: Apple 4 is removed from fridge
+Producer: Apple 24 is added into the fridge
+Consumer Thread-2: Apple 24 is removed from fridge
+Producer: Full
+Producer: Apple 37 is added into the fridge
+Consumer Thread-2: Apple 37 is removed from fridge
+Producer: Apple 33 is added into the fridge
+Producer: Full
+Consumer Thread-2: Apple 33 is removed from fridge
+Producer: Apple 32 is added into the fridge
+Consumer Thread-2: Apple 32 is removed from fridge
+Producer: Full
+Producer: Apple 35 is added into the fridge
+Consumer Thread-2: Apple 35 is removed from fridge
+Producer: Apple 40 is added into the fridge
+Empty
+Consumer Thread-3: Apple 40 is removed from fridge
+Producer: Full
+Empty
+Producer: Apple 5 is added into the fridge
+Consumer Thread-2: Apple 5 is removed from fridge
+Producer: Apple 13 is added into the fridge
+Consumer Thread-3: Apple 13 is removed from fridge
+Producer: Apple 5 is added into the fridge
+Consumer Thread-2: Apple 5 is removed from fridge
+Producer: Apple 23 is added into the fridge
+Consumer Thread-2: Apple 23 is removed from fridge
+Producer: Apple 21 is added into the fridge
+Producer: Apple 11 is added into the fridge
+Consumer Thread-2: Apple 11 is removed from fridge
+Producer: Apple 9 is added into the fridge
+Empty
+Producer: Apple 26 is added into the fridge
+Consumer Thread-2: Apple 26 is removed from fridge
+Producer: Apple 31 is added into the fridge
+Producer: Apple 26 is added into the fridge
+Consumer Thread-2: Apple 26 is removed from fridge
+Producer: Apple 29 is added into the fridge
+Consumer Thread-2: Apple 29 is removed from fridge
+Empty
+Producer: Apple 24 is added into the fridge
+Producer: Apple 7 is added into the fridge
+Empty
+Consumer Thread-3: Apple 7 is removed from fridge
+Producer: Apple 19 is added into the fridge
+Empty
+Consumer Thread-3: Apple 19 is removed from fridge
+Producer: Apple 6 is added into the fridge
+Consumer Thread-2: Apple 6 is removed from fridge
+Empty
+Producer: Apple 14 is added into the fridge
+Empty
+Empty
+Consumer Thread-2: Apple 14 is removed from fridge
+Producer: Apple 2 is added into the fridge
+Consumer Thread-3: Apple 2 is removed from fridge
+Empty
+Producer: Apple 4 is added into the fridge
+Empty
+Consumer Thread-3: Apple 4 is removed from fridge
+Producer: Apple 10 is added into the fridge
+Empty
+Consumer Thread-3: Apple 10 is removed from fridge
+Producer: Apple 7 is added into the fridge
+Consumer Thread-3: Apple 7 is removed from fridge
+Empty
+Producer: Apple 14 is added into the fridge
+Consumer Thread-2: Apple 14 is removed from fridge
+Producer: Apple 15 is added into the fridge
+Consumer Thread-3: Apple 15 is removed from fridge
+Empty
+Producer: Apple 10 is added into the fridge
+Empty
+Consumer Thread-2: Apple 10 is removed from fridge
+Producer: Apple 30 is added into the fridge
+Producer: Apple 31 is added into the fridge
+Producer: Apple 13 is added into the fridge
+Producer: Apple 7 is added into the fridge
+Consumer Thread-2: Apple 7 is removed from fridge
+Producer: Apple 29 is added into the fridge
+Consumer Thread-2: Apple 29 is removed from fridge
+Producer: Apple 5 is added into the fridge
+Consumer Thread-3: Apple 5 is removed from fridge
+Empty
+Producer: Apple 10 is added into the fridge
+Producer: Apple 16 is added into the fridge
+Consumer Thread-3: Apple 16 is removed from fridge
+Empty
+Producer: Apple 7 is added into the fridge
+Consumer Thread-2: Apple 7 is removed from fridge
+Producer: Apple 5 is added into the fridge
+Empty
+Consumer Thread-2: Apple 5 is removed from fridge
+Producer: Apple 19 is added into the fridge
+Consumer Thread-2: Apple 19 is removed from fridge
+Empty
+Producer: Apple 32 is added into the fridge
+Consumer Thread-3: Apple 32 is removed from fridge
+Empty
+Producer: Apple 29 is added into the fridge
+Consumer Thread-3: Apple 29 is removed from fridge
